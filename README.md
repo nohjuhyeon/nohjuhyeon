@@ -26,6 +26,14 @@
 |[Path-Finder 3차](https://github.com/nohjuhyeon/AI_LKJ_hubs_fastapi)|웹사이트의 마케팅 방안 분석 및 Rest API를 적용하여 웹페이지 구성하기|2024.04.18 ~ 2024.05.22|웹사이트의 마케팅 방안 분석하기|
 |[Vital-Heart](https://github.com/nohjuhyeon/heart_disease_projects)|심장병을 예방할 수 있는 방안 모색|2024.02.27 - 2024.03.17|심장병에 미치는 영향 분석 및 심장병 예측 모델 만들기|
 ## Coding Test
+|구분|단계|코딩 테스트 폴더|비고|
+|--|--|--|--|
+|Python|LEVEL 16 11/11|[Python-백준 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/Python/%EB%B0%B1%EC%A4%80)|백준|
+|Python|LEVEL 1 58/81|[Python-프로그래머스 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/Python3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)|프로그래머스|
+|MySQL|LEVEL 5 2/2(완료)|[MySQL-프로그래머스 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/MySQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)|프로그래머스|
+
+
+
 <!--
 **nohjuhyeon/nohjuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
