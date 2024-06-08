@@ -27,7 +27,7 @@
 |구분|단계|코딩 테스트 폴더|비고|
 |--|--|--|--|
 |Python|LEVEL 16 11/11|[Python-백준 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/Python/%EB%B0%B1%EC%A4%80)|백준|
-|Python|LEVEL 1 58/81|[Python-프로그래머스 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/Python3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)|프로그래머스|
+|Python|LEVEL 1 81/81|[Python-프로그래머스 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/Python3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)|프로그래머스|
 |MySQL|LEVEL 5 2/2(완료)|[MySQL-프로그래머스 코딩테스트 폴더](https://github.com/nohjuhyeon/coding_test/tree/main/MySQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)|프로그래머스|
 
 
